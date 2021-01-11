@@ -15,6 +15,8 @@ I work mainly on -
 - Vue and NodeJS
 - Salesforce.com 
 
+.. and blog at ]techformist.com] and [crmcog.com].
+
 ![Code, I do](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
 
 
