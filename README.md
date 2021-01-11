@@ -6,7 +6,11 @@ I am Prashanth and I love to call myself a technologist for no particular reason
 - CRM (mostly salesforce.com)
 - Enterprise software
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+### Github Stats
+
+![What I work on?](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth1k&theme=radical)](https://github.com/prashanth1k/github-readme-stats)
 
 ### 💬 Talk to me about
 
