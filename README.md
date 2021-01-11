@@ -10,7 +10,7 @@ I am Prashanth and I love to call myself a technologist for no particular reason
 
 ![What I work on?](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth1k&theme=radical)](https://github.com/prashanth1k/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth1k&theme=radical)
 
 ### 💬 Talk to me about
 
