@@ -3,7 +3,7 @@
 I am Prashanth and I love to call myself a technologist for no particular reason. Here are my few interests (listed in no particular order :)).
 
 - Web development
-- CRM (mostly salesforce.com)
+- CRM (that's salesforce.com for the most part - nowadays)
 - Enterprise software
 
 
@@ -15,7 +15,7 @@ I work mainly on -
 - Vue and NodeJS
 - Salesforce.com 
 
-.. and blog at ]techformist.com] and [crmcog.com].
+.. and blog at [techformist.com](https://techformist.com) and [crmcog.com](https://crmcog.com).
 
 ![Code, I do](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
 
