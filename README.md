@@ -6,11 +6,17 @@ I am Prashanth and I love to call myself a technologist for no particular reason
 - CRM (mostly salesforce.com)
 - Enterprise software
 
-### Github Stats
 
-![What I work on?](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth1k&theme=radical)
+
+### Stats
+
+I work mainly on -
+- Vue and NodeJS
+- Salesforce.com 
+
+![Code, I do](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
+
 
 ### 💬 Talk to me about
 
