@@ -9,16 +9,15 @@ I am Prashanth and I love to call myself a technologist for no particular reason
 &nbsp;
 
 I don't have a lot of smart things to say, but I do write a bit.
-- techformist.com: Web development, Javascript, SSGs, C#.
+
+- techformist.com: Web development, Javascript, SSGs, C#
 - crmcog.com: all things CRM
 
 &nbsp;
 
 ### 💬 Talk to me about
 
-- 🌱Web
-- ⚡CRM & enterprise software
-- 🔭Philosophy
+🌱 Web | ⚡ CRM & enterprise software | 🔭 Philosophy
 
 You can reach me on [prashanth1k@Twitter](https://twitter.com/prashanth1k).
 
