@@ -8,10 +8,11 @@ I am Prashanth and I love to call myself a technologist for no particular reason
 
 &nbsp;
 
-I don't have a lot of smart things to say, but I do write.
-
+I don't have a lot of smart things to say, but I do write a bit.
 - techformist.com: Web development, Javascript, SSGs, C#.
 - crmcog.com: all things CRM
+
+&nbsp;
 
 ### 💬 Talk to me about
 
