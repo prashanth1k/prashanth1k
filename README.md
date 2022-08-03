@@ -19,7 +19,7 @@ I don't have a lot of smart things to say, but I do write a bit.
 
 🌱 Web | ⚡ CRM & enterprise software | 🔭 Philosophy
 
-You can reach me on [prashanth1k@Twitter](https://twitter.com/prashanth1k).
+You can reach me on [prashanthatva@Twitter](https://twitter.com/prashanthatva).
 
 &nbsp;
 
