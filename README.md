@@ -1,33 +1,36 @@
 ### Hello, world 👋
 
-I am Prashanth and I love to call myself a technologist for no particular reason. Here are my few interests (listed in no particular order :)).
+I am Prashanth and I love to call myself a technologist for no particular reason. Here are my few interests listed in no particular order :).
 
-- Web development
 - CRM (that's salesforce.com for the most part - nowadays)
+- Web development
 - Enterprise software
 
 &nbsp;
 
+I don't have a lot of smart things to say, but I do write.
+
+- techformist.com: Web development, Javascript, SSGs, C#.
+- crmcog.com: all things CRM
+
+### 💬 Talk to me about
+
+- 🌱Web
+- ⚡CRM & enterprise software
+- 🔭Philosophy
+
+You can reach me on [prashanth1k@Twitter](https://twitter.com/prashanth1k).
+
+&nbsp;
 
 ### Stats
 
-I work mainly on -
-- Vue and NodeJS
-- Salesforce.com 
-
-.. and blog at [techformist.com](https://techformist.com) and [crmcog.com](https://crmcog.com).
 
 ![Code, I do](https://github-readme-stats.vercel.app/api?username=prashanth1k&count_private=true&show_icons=true&theme=radical)
 
 &nbsp;
 
-### 💬 Talk to me about
 
-- Web
-- CRM
-- Philosophy of life
-
-You can reach me on [Twitter](https://twitter.com/techformist).
 
 <!--
 **prashanth1k/prashanth1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
